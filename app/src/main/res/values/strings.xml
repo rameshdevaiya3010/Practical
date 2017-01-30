@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PracticleExam</string>
+
+
+    <string name="filtercontributions">Filter Contributions</string>
+    <string name="contributions">Contributions</string>
+    <string name="interneterror">Please Check Your Internet Connectivity!</string>
+
+</resources>
